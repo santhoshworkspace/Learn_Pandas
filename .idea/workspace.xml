@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="22657f1f-1f12-42d6-97c9-0c82fc163612" name="Changes" comment="Day1 completed">
-      <change afterPath="$PROJECT_DIR$/Day2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/New_Weather.csv" afterDir="false" />
+    <list default="true" id="22657f1f-1f12-42d6-97c9-0c82fc163612" name="Changes" comment="Day2 completed">
+      <change afterPath="$PROJECT_DIR$/Day3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather_jan_2016.csv" beforeDir="false" afterPath="$PROJECT_DIR$/weather_jan_2016.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/New_Weather.csv" beforeDir="false" afterPath="$PROJECT_DIR$/New_Weather.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +49,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.Day1.executor": "Run",
     "Python.Day2.executor": "Run",
+    "Python.Day3.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
@@ -122,13 +122,22 @@
       <option name="project" value="LOCAL" />
       <updated>1748494435965</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Day2 completed">
+      <option name="closed" value="true" />
+      <created>1748858460051</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1748858460051</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="reading csv" />
     <MESSAGE value="Day1 morning" />
     <MESSAGE value="Day1 completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day1 completed" />
+    <MESSAGE value="Day2 completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day2 completed" />
   </component>
 </project>
